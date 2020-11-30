@@ -24,7 +24,7 @@
               <path d="M6.5 5.4v13.2l11-6.6z"></path>
             </svg>
 
-            <img :src="itemThumb(getItemSrc(itemIndex), itemIndex)" alt="" />
+<!--            <img :src="itemThumb(getItemSrc(itemIndex), itemIndex)" alt="" />-->
           </button>
         </div>
       </div>
